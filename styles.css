@@ -11,6 +11,10 @@ body {
 		"Segoe UI Symbol";
 }
 
+body {
+	min-width: 320px;
+}
+
 h1,
 h2,
 h3,
@@ -909,3 +913,14 @@ footer {
 .no-border {
 	border: none;
 }
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+}
+
+/* Dispositivos medianos (tabletas en orientación horizontal, 768px y más) */
+@media only screen and (min-width: 481px) and (max-width: 991px) {
+	.nav {
+		flex-wrap: wrap;
+	}
+}
+
+@media only screen and (max-width: 480px) {}
