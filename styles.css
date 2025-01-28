@@ -926,15 +926,14 @@ footer {
 
 	nav {
 		overflow-x: auto;
-		white-space: nowrap;
 	}
-	
-	.nav__title {
+
+	.nav__title p {
 		white-space: nowrap;
 	}
 	
 
-	.seo__news li {
+	.seo__news li a {
 		white-space: nowrap;
 	}
 }
