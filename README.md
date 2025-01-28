@@ -62,7 +62,7 @@ La web El Tiempo, su marca, logo e imágenes son propiedad de [El Tiempo](https:
 ---
 
 ## Autoría y créditos
-El 100% del código está creado y desarrollado desde 0 por Juan Simón
+El 100% del código está creado y desarrollado desde cero por Juan Simón.
 
 ---
 
